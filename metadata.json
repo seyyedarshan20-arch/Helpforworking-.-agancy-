@@ -1,0 +1,6 @@
+{
+  "name": "Help for Work - Smart Financial Solutions & Professional Support",
+  "description": "Smart Financial Solutions & Professional Support. Assisting customers with financial-service processes, banking solutions, telecalling, and customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
